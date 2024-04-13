@@ -5,13 +5,6 @@
 
 - 💬 Reach me at **kaitlin.zhang@owasp.org**
 
-<h3 align="left">📊 Fun Github Stats:</h3>
-
-##### 🌐 Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizengrowth&layout=compact&theme=vue)
-
-## 📈 Activity Graph:
-![](https://activity-graph.herokuapp.com/graph?username=kaizengrowth&theme=react-dark)
-
+<h3 align="left">📊 Fun Stats:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizengrowth&" alt="kaizengrowth" /></p>
