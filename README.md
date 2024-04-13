@@ -5,6 +5,6 @@
 
 - 💬 Reach me at **kaitlin.zhang@owasp.org**
 
-<h3 align="left">📊 Fun Stats:</h3>
+<h3 align="center">📊 Fun Stats:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizengrowth&" alt="kaizengrowth" /></p>
