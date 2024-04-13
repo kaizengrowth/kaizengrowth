@@ -7,4 +7,4 @@
 
 <h3 align="center">📊 Fun Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizengrowth&" alt="kaizengrowth" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizengrowth&" alt="kaizengrowth" /></p>
