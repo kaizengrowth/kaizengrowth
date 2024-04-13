@@ -10,3 +10,5 @@
 <h3 align="center">📊 Fun Stats:</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizengrowth&" alt="kaizengrowth" /></p>
+<p align="center">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaizengrowth&theme=vue)</p>
+<p align="center">![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaizengrowth&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaizengrowth&theme=vue&utcOffset=8)</p>
