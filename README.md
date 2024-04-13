@@ -3,7 +3,7 @@
 
 🌱 I’m currently geeking out on algorithmic botany with my fave YouTuber: Dan Schiffman of [The Coding Train!](https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 
-💬 Reach me at **kaitlin.zhang@owasp.org**
+💬 You can reach me at **kaitlin.zhang@owasp.org**
 
 <br/>
 
