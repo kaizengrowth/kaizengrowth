@@ -12,7 +12,7 @@
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaizengrowth&theme=graywhite" alt="kaizengrowth" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaizengrowth&theme=github&utcOffset=8" alt="kaizengrowth" /></p>
 
 
-<div align="left">
+```
   ⠀⠀⠀⠀⠀⠀⠀⠀ ⣀⣀⣀⣀⣀⡀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣴⠒⡩⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢉⡲⣄⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢀⠼⢇⣶⠁⠀⠀⠀⠠⠀⠀⠀⠀⢀⣄⠀⠀⠳⣌⠑⢄⠀⠀⠀⠀
@@ -29,4 +29,4 @@
 ⠀⠀⠀⠀⠀⠀⠑⠄⠀⠈⠁⠀⠉⢸⠏⠻⢂⠔⠁⠀⠀⠕⠁⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠄⠤⠄⠀⠄⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-</div>
+```
