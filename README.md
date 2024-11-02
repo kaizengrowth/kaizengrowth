@@ -9,8 +9,6 @@
 
 <h3 align="center">📊 Fun Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizengrowth&theme=default&hide_border=true" alt="kaizengrowth" /> </p>
-<p align="center"><img align="center" src="http://github-summary-cards.vercel.app/api/cards/most-commit-language?username=kaizengrowth&theme=github" alt="most commit language" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaizengrowth&theme=github&utcOffset=4" alt="kaizengrowth" /></p>
-
 
 <br/>
 
