@@ -1,1 +1,61 @@
+# Hi, I'm Katie Z. Albasi 👋
 
+**Software engineer & AI researcher — I build production AI systems for government and community programs, and I teach engineers how to build them responsibly.**
+
+[![Website](https://img.shields.io/badge/kaizencode.art-portfolio-2ea44f?style=flat&logo=safari&logoColor=white)](https://kaizencode.art)
+[![Email](https://img.shields.io/badge/email-kaitlin.zhang%40owasp.org-blue?style=flat&logo=gmail&logoColor=white)](mailto:kaitlin.zhang@owasp.org)
+[![OWASP](https://img.shields.io/badge/OWASP-AI%20Red%20Teaming%20Guide-black?style=flat&logo=owasp)](https://owasp.org)
+
+---
+
+## 🔭 What I do
+
+My work sits at the intersection of **AI engineering, public-interest technology, and AI safety research**:
+
+- **Production AI for government benefits** — document intelligence, multilingual conversational AI, fraud-signal detection, and high-availability payments infrastructure for state benefits programs (Michigan, Colorado) at AidKit, in partnership with OpenAI. 🏆 *Gold, "Best Use of Artificial Intelligence," 2025 Globee Awards for Impact; GitLab Foundation AI for Economic Mobility grantee.*
+- **AI evaluation & observability** — human-in-the-loop evaluation harnesses, trace-level monitoring, and continuous oversight for agentic RAG systems. I think of evaluation-driven development as TDD's cousin for nondeterministic systems.
+- **Technical education at scale** — designed and launched AI-engineering curricula as Managing Lead Instructor at Stride (team of 9) and as an enterprise AI consultant for Pluralsight. I've also taught and mentored adult learners at Per Scholas, Future Code, and other workforce programs. My practice is grounded in andragogy and heutagogy (self-directed, experience-driven learning) for working adults, using backward design, constructive alignment, and competency-based instructional design. Certified in pedagogy and curriculum design, with a focus on scaffolding complex technical skills, formative assessment, and transfer of learning into building custom telemetry-enabled cloud labs and AI-enabled learning platforms in production.
+
+## 🌱 Current work & research
+
+- **Founder/Senior Engineer, [What We Will](https://github.com/What-We-Will)** — a community platform to connect laid-off workers to legal and healthcare resources and job search supports. Building an evaluated agentic RAG system for labor-law citations and an AI upskilling program run by 38 volunteers.
+- **AI safety research (in progress, 2026)** — first-author work on localizing safety guardrails at the transformer-layer level, building on findings that RL capability gains concentrate in a small subset of middle layers.
+- **AI & labor policy research (in progress, 2026)** — collaborating on a study with TechEquity analyzing survey data from tech workers on AI-driven change in their roles.
+## 📚 Learning lately
+
+- **Newline AI Research program** — transformer internals built from scratch (self-attention layers, feedforward networks, full architecture), fine-tuning across the stack (LoRA instruction tuning, multimodal & embedding fine-tuning with CLIP and triplet loss), and preference-based training methods (RLHF, DPO, PPO, GRPO). This mechanical, layer-by-layer grounding directly feeds my transformer-layer guardrail research.
+- **Advanced retrieval & agentic systems** — multi-vector indexing, late-interaction retrieval, multimodal RAG over text/images/tables, tool-augmented reasoning, and AI-centric evaluation — hands-on with Hugging Face, DSPy, LangChain, and Modal.
+- **Production reliability** — Google's SRE canon (SLOs, error budgets, toil) and modern Java (17/21 records, sealed types, virtual threads) with Spring Boot slice testing and Testcontainers.
+
+## 📌 Featured repositories
+
+| Repo | Details |
+|---|---|
+| [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ 58 | Apache Kafka monitoring tool for prototyping real-time streaming pipelines and testing parallelization of multi-stage ML models pre-production. *TypeScript, distributed systems, observability.* |
+| [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | AI document assistant for Tulsa city government — parsing/translating ordinances, budgets, and Council minutes with SMS/email alerts. Built with the Tulsa City Auditor's Office; user-tested with 80+ government staff and residents. *Python, RAG, civic tech.* |
+| [**What We Will — community platform**](https://github.com/What-We-Will/community-platform) | Production crisis-support platform for laid-off workers: resource matching, peer-support grouping, evaluated legal-citation chatbot. *TypeScript, agentic RAG, human-in-the-loop evals.* |
+| [**oulipo_package**](https://github.com/kaizengrowth/oulipo_package) | Python NLP library for constraint-based poetry (built for SFPC), packaged and published to GitHub Container Registry. *Python packaging, NLP, creative computation.* |
+| [**machine_learning_projects**](https://github.com/kaizengrowth/machine_learning_projects) | ML coursework at M.I.T. with experiments in Python ML libraries. *Jupyter, scikit-learn, exploratory work.* |
+
+## 🛠️ Toolbox
+
+**AI/ML:** LLM evaluation harnesses · RAG & agentic workflows · MCP · OpenAI & Anthropic APIs · open-weight models (Ollama) · bias & compliance testing · NLP (spaCy, NLTK) · audio ML (Librosa)
+
+**Languages & frameworks:** Python · TypeScript/JavaScript · Java (Spring Boot) · React · FastAPI · Node
+
+**Data & infra:** AWS (primary) · Docker · Pulumi · Jenkins & GitHub Actions CI/CD · Airflow · Kafka · Spark · Linux · payments infrastructure
+
+**Practices:** TDD & pairing · human-centered design · Scrum Alliance certified · PMI trained · SAFe Agile · modular contracting · USDS/18F-style delivery · scenario-driven development · policy toggles / de-risking government software
+
+**Compliance & accessibility:** FedRAMP (incl. AWS GovCloud) · ATO · FISMA · NIST SP 800-53 · ISO 27001 · Section 508 / WCAG 2.1 AA · USWDS · HIPAA / PII / PHI
+
+**Health IT & geospatial:** QRDA-III · QPP/MIPS · eCQM · OGC open geospatial standards
+
+
+## 🎓 Background
+
+M.S. Computer Science, **UPenn** · Post-grad certificate in ML & AI, **MIT** · MPA-BA Data Science for Public Policy, **NYU** (Reynolds Fellow) · A.B. Mathematics-Economics, **Columbia** (Centennial Scholar)
+
+---
+
+💬 Open to conversations about AI evaluation, gov-tech, responsible AI deployment, and technical education. Reach me at [kaitlin.zhang@owasp.org](mailto:kaitlin.zhang@owasp.org) or check out my personal blog at [kaizencode.art](https://kaizencode.art).
