@@ -1,6 +1,6 @@
 # Hi, I'm Katie Z. Albasi 👋
 
-**Software engineer, AI researcher, technical consultant and educator. I build production AI systems for government and community programs, and I teach engineers how to build them responsibly.**
+**Software engineer, AI researcher in training, technical consultant and educator. I build production AI systems for government and community programs, and I teach engineers how to build them responsibly.**
 
 [![Website](https://img.shields.io/badge/kaizencode.art-portfolio-2ea44f?style=flat&logo=safari&logoColor=white)](https://kaizencode.art)
 [![Email](https://img.shields.io/badge/email-kaitlin.zhang%40owasp.org-blue?style=flat&logo=gmail&logoColor=white)](mailto:kaitlin.zhang@owasp.org)
