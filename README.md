@@ -31,7 +31,7 @@ My work sits at the intersection of **AI engineering, public-interest technology
 
 | Repo | Details |
 |---|---|
-| [**What We Will — community platform**](https://github.com/What-We-Will/community-platform) | Production crisis-support platform for laid-off workers: resource matching, peer-support grouping, evaluated legal-citation chatbot. *TypeScript, agentic RAG, human-in-the-loop evals.* |
+| [**What We Will**](https://github.com/What-We-Will) | Production crisis-support platform for laid-off workers: resource matching, peer-support grouping, evaluated legal-citation chatbot. *TypeScript, agentic RAG, human-in-the-loop evals.* |
 | [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | AI document assistant for Tulsa city government — parsing/translating ordinances, budgets, and Council minutes with SMS/email alerts. Built with the Tulsa City Auditor's Office; user-tested with 80+ government staff and residents. *Python, RAG, civic tech.* |
 | [**machine_learning_projects**](https://github.com/kaizengrowth/machine_learning_projects) | ML coursework at M.I.T. with experiments in Python ML libraries. *Jupyter, scikit-learn, exploratory work.* |
 | [**oulipo_package**](https://github.com/kaizengrowth/oulipo_package) | Python NLP library for constraint-based poetry (built for SFPC), packaged and published to GitHub Container Registry. *Python packaging, NLP, creative computation.* |
