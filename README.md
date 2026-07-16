@@ -1,6 +1,6 @@
 # Hi, I'm Katie Z. Albasi 👋
 
-**Software engineer & AI researcher — I build production AI systems for government and community programs, and I teach engineers how to build them responsibly.**
+**Software engineer, AI researcher, Technical Consultant and Educator. I build production AI systems for government and community programs, and I teach engineers how to build them responsibly.**
 
 [![Website](https://img.shields.io/badge/kaizencode.art-portfolio-2ea44f?style=flat&logo=safari&logoColor=white)](https://kaizencode.art)
 [![Email](https://img.shields.io/badge/email-kaitlin.zhang%40owasp.org-blue?style=flat&logo=gmail&logoColor=white)](mailto:kaitlin.zhang@owasp.org)
@@ -39,7 +39,9 @@ My work sits at the intersection of **AI engineering, public-interest technology
 
 ## 🛠️ Toolbox
 
-**AI/ML:** LLM evaluation harnesses · RAG & agentic workflows · MCP · OpenAI & Anthropic APIs · open-weight models (Ollama) · bias & compliance testing · NLP (spaCy, NLTK) · audio ML (Librosa)
+**AI/ML:** LLM evaluation harnesses · RAG & agentic workflows · MCP · OpenAI & Anthropic APIs · open-weight models (Ollama) · NLP (spaCy, NLTK) · audio ML (Librosa) · model quantization & distillation (GPTQ, AWQ, GGUF, LoRA/QLoRA) · fine-tuning & preference optimization (RLHF, DPO, PPO)
+
+**Responsible AI & safety:** AI red teaming (OWASP) · adversarial probing & jailbreak testing · safety guardrails (input/output filtering, policy enforcement, layer-localized interventions) · bias & fairness testing · toxicity & harm evaluation · alignment & refusal behavior analysis · human-in-the-loop oversight · evaluation-driven development for nondeterministic systems
 
 **Languages & frameworks:** Python · TypeScript/JavaScript · Java (Spring Boot) · React · FastAPI · Node
 
@@ -47,7 +49,7 @@ My work sits at the intersection of **AI engineering, public-interest technology
 
 **Practices:** TDD & pairing · human-centered design · Scrum Alliance certified · PMI trained · SAFe Agile · modular contracting · USDS/18F-style delivery · scenario-driven development · policy toggles / de-risking government software
 
-**Compliance & accessibility:** FedRAMP (incl. AWS GovCloud) · ATO · FISMA · NIST SP 800-53 · ISO 27001 · Section 508 / WCAG 2.1 AA · USWDS · HIPAA / PII / PHI
+**Compliance & accessibility:** FedRAMP (incl. AWS GovCloud) · ATO · FISMA · NIST SP 800-53 · NIST AI RMF · ISO 27001 · Section 508 / WCAG 2.1 AA · USWDS · HIPAA / PII / PHI · responsible AI governance
 
 **Health IT & geospatial:** QRDA-III · QPP/MIPS · eCQM · OGC open geospatial standards
 
