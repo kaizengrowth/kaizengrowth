@@ -1,6 +1,6 @@
 # Hi, I'm Katie Z. Albasi 👋
 
-**Software engineer, AI researcher, Technical Consultant and Educator. I build production AI systems for government and community programs, and I teach engineers how to build them responsibly.**
+**Software engineer, AI researcher, technical consultant and educator. I build production AI systems for government and community programs, and I teach engineers how to build them responsibly.**
 
 [![Website](https://img.shields.io/badge/kaizencode.art-portfolio-2ea44f?style=flat&logo=safari&logoColor=white)](https://kaizencode.art)
 [![Email](https://img.shields.io/badge/email-kaitlin.zhang%40owasp.org-blue?style=flat&logo=gmail&logoColor=white)](mailto:kaitlin.zhang@owasp.org)
@@ -31,11 +31,11 @@ My work sits at the intersection of **AI engineering, public-interest technology
 
 | Repo | Details |
 |---|---|
-| [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ 58 | Apache Kafka monitoring tool for prototyping real-time streaming pipelines and testing parallelization of multi-stage ML models pre-production. *TypeScript, distributed systems, observability.* |
-| [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | AI document assistant for Tulsa city government — parsing/translating ordinances, budgets, and Council minutes with SMS/email alerts. Built with the Tulsa City Auditor's Office; user-tested with 80+ government staff and residents. *Python, RAG, civic tech.* |
 | [**What We Will — community platform**](https://github.com/What-We-Will/community-platform) | Production crisis-support platform for laid-off workers: resource matching, peer-support grouping, evaluated legal-citation chatbot. *TypeScript, agentic RAG, human-in-the-loop evals.* |
-| [**oulipo_package**](https://github.com/kaizengrowth/oulipo_package) | Python NLP library for constraint-based poetry (built for SFPC), packaged and published to GitHub Container Registry. *Python packaging, NLP, creative computation.* |
+| [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | AI document assistant for Tulsa city government — parsing/translating ordinances, budgets, and Council minutes with SMS/email alerts. Built with the Tulsa City Auditor's Office; user-tested with 80+ government staff and residents. *Python, RAG, civic tech.* |
 | [**machine_learning_projects**](https://github.com/kaizengrowth/machine_learning_projects) | ML coursework at M.I.T. with experiments in Python ML libraries. *Jupyter, scikit-learn, exploratory work.* |
+| [**oulipo_package**](https://github.com/kaizengrowth/oulipo_package) | Python NLP library for constraint-based poetry (built for SFPC), packaged and published to GitHub Container Registry. *Python packaging, NLP, creative computation.* |
+| [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ 58 | Apache Kafka monitoring tool for prototyping real-time streaming pipelines and testing parallelization of multi-stage ML models pre-production. *TypeScript, distributed systems, observability.* |
 
 ## 🛠️ Toolbox
 
