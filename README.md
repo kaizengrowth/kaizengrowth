@@ -19,11 +19,11 @@ My work sits at the intersection of **AI engineering, public-interest technology
 ## 🌱 Current work & research
 
 - **Founder/Senior Engineer, [What We Will](https://github.com/What-We-Will)** — a community platform to connect laid-off workers to legal and healthcare resources and job search supports. Building an evaluated agentic RAG system for labor-law citations and an AI upskilling program run by 38 volunteers.
-- **AI safety research (in progress, 2026)** — first-author work on localizing safety guardrails at the transformer-layer level, building on findings that RL capability gains concentrate in a small subset of middle layers.
+- **AI safety research (in progress, 2026)** — measuring whether post-training quantization and GGUF compression widen the MultiJail high- vs low-resource jailbreak gap (Δ_HL) on open-weight models. Layer-localized safety interventions are deferred follow-up, not the first paper. Repo: [quant-multilingual-safety](https://github.com/kaizengrowth/quant-multilingual-safety).
 - **AI & labor policy research (in progress, 2026)** — collaborating on a study with TechEquity analyzing survey data from tech workers on AI-driven change in their roles.
 ## 📚 Learning lately
 
-- **Newline AI Research program** — transformer internals built from scratch (self-attention layers, feedforward networks, full architecture), fine-tuning across the stack (LoRA instruction tuning, multimodal & embedding fine-tuning with CLIP and triplet loss), and preference-based training methods (RLHF, DPO, PPO, GRPO). This mechanical, layer-by-layer grounding directly feeds my transformer-layer guardrail research.
+- **Newline AI Research program** — transformer internals built from scratch (self-attention layers, feedforward networks, full architecture), fine-tuning across the stack (LoRA instruction tuning, multimodal & embedding fine-tuning with CLIP and triplet loss), and preference-based training methods (RLHF, DPO, PPO, GRPO). This mechanical, layer-by-layer grounding supports both the quantization×multilingual safety measurement work and any later layer-localized safety follow-ups.
 - **Advanced retrieval & agentic systems** — multi-vector indexing, late-interaction retrieval, multimodal RAG over text/images/tables, tool-augmented reasoning, and AI-centric evaluation — hands-on with Hugging Face, DSPy, LangChain, and Modal.
 - **Production reliability** — Google's SRE canon (SLOs, error budgets, toil) and modern Java (17/21 records, sealed types, virtual threads) with Spring Boot slice testing and Testcontainers.
 
@@ -34,6 +34,7 @@ My work sits at the intersection of **AI engineering, public-interest technology
 | [**What We Will**](https://github.com/What-We-Will) | Production crisis-support platform for laid-off workers: resource matching, peer-support grouping, evaluated legal-citation chatbot. *TypeScript, agentic RAG, human-in-the-loop evals.* |
 | [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | AI document assistant for Tulsa city government — parsing/translating ordinances, budgets, and Council minutes with SMS/email alerts. Built with the Tulsa City Auditor's Office; user-tested with 80+ government staff and residents. *Python, RAG, civic tech.* |
 | [**MultiAgentEDUstack**](https://github.com/kaizengrowth/MultiAgentEDUstack) | Multi-agent curriculum pipeline that sources AI research/news, tiers credibility, and scaffolds digests, wiki, lessons, and labs at model speed. *Python, SQLite, Claude Code skills, Next.js desk.* |
+| [**quant-multilingual-safety**](https://github.com/kaizengrowth/quant-multilingual-safety) | Does PTQ/GGUF widen Multilingual jailbreak ASR gaps across resource tiers? Phase A measurement study (MultiJail × precision arms). *Python, quantization, safety eval.* |
 | [**machine_learning_projects**](https://github.com/kaizengrowth/machine_learning_projects) | ML coursework at M.I.T. with experiments in Python ML libraries. *Jupyter, scikit-learn, exploratory work.* |
 | [**oulipo_package**](https://github.com/kaizengrowth/oulipo_package) | Python NLP library for constraint-based poetry (built for SFPC), packaged and published to GitHub Container Registry. *Python packaging, NLP, creative computation.* |
 | [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ 58 | Apache Kafka monitoring tool for prototyping real-time streaming pipelines and testing parallelization of multi-stage ML models pre-production. *TypeScript, distributed systems, observability.* |
@@ -42,7 +43,7 @@ My work sits at the intersection of **AI engineering, public-interest technology
 
 **AI/ML:** LLM evaluation harnesses · RAG & agentic workflows · MCP · OpenAI & Anthropic APIs · open-weight models (Ollama) · NLP (spaCy, NLTK) · audio ML (Librosa) · model quantization & distillation (GPTQ, AWQ, GGUF, LoRA/QLoRA) · fine-tuning & preference optimization (RLHF, DPO, PPO)
 
-**Responsible AI & safety:** AI red teaming (OWASP) · adversarial probing & jailbreak testing · safety guardrails (input/output filtering, policy enforcement, layer-localized interventions) · bias & fairness testing · toxicity & harm evaluation · alignment & refusal behavior analysis · human-in-the-loop oversight · evaluation-driven development for nondeterministic systems
+**Responsible AI & safety:** AI red teaming (OWASP) · adversarial probing & jailbreak testing · safety guardrails (input/output filtering, policy enforcement, refusal analysis; layer-localized interventions as follow-up) · bias & fairness testing · toxicity & harm evaluation · alignment & refusal behavior analysis · human-in-the-loop oversight · evaluation-driven development for nondeterministic systems
 
 **Languages & frameworks:** Python · TypeScript/JavaScript · Java (Spring Boot) · React · FastAPI · Node
 
