@@ -48,4 +48,4 @@ M.S. Computer Science, **UPenn** · Post-grad certificate in Machine Learning & 
 
 ---
 
-💬 Open to conversations about AI evaluation, gov-tech, responsible AI deployment, and technical education. Reach me at [kaitlin.zhang@owasp.org](mailto:kaitlin.zhang@owasp.org) or check out my personal blog at [kaizencode.art](https://kaizencode.art).
+💬 Reach me at [kaitlin.zhang@owasp.org](mailto:kaitlin.zhang@owasp.org) or [kaizencode.art](https://kaizencode.art).
