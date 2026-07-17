@@ -30,7 +30,7 @@
   - Embedding and multimodal adaptation: CLIP-style alignment, triplet and contrastive losses, and hard-negative mining
   - Preference and RL post-training: SFT into RLHF/PPO critic-actor loops, DPO, and GRPO / Dr. GRPO / GiGPO with group-relative advantages, KL-to-reference regularization, and Math-Verify-style verifiable rewards
   - Layer-localized safety methods: freeze-all-but-k GRPO with layer contribution C(k); Safety Layers / SPPFT (freeze middle refusal layers under capability fine-tuning); ESI/SET/SPA sparse safety-critical updates (~1% of weights); Arditi-style refusal-direction ablation and addition in the residual stream
-  - Systems context for eval harnesses: MoE routing, agent tool-use loops, Graph and multi-hop RAG; retrieval stacks (Hugging Face, DSPy, LangGraph); production reliability (SRE SLOs, model orchestration mixing cloud deployment and local LLM models for cost optimization)
+  - Systems context for eval harnesses: MoE routing, agent tool-use loops, Graph and multi-hop RAG; retrieval stacks (Hugging Face, DSPy, LangGraph); production reliability (SRE SLOs, model orchestration mixing multi-model cloud and local LLMs for cost optimization)
 
 ## 📌 Featured repositories
 
