@@ -10,9 +10,9 @@
 
 ## What I do
 
-- **Production AI (gov benefits)**: document intelligence, multilingual conversational AI, fraud signals, and payments infra at AidKit (MI/CO), with OpenAI. Globee Gold (AI, 2025); GitLab Foundation AI for Economic Mobility grantee.
+- **Production AI for government benefits**: document intelligence, multilingual conversational AI, fraud-signal detection, and high-availability payments infrastructure for state benefits programs (Michigan, Colorado) at AidKit, in partnership with OpenAI.
 - **Evaluation & safety**: human-in-the-loop eval harnesses, agentic RAG observability, LLM red teaming (OWASP).
-- **Technical education**: AI-engineering curricula at Stride (Managing Lead Instructor) and Pluralsight; adult workforce programs (Per Scholas, Future Code).
+- **Technical education**: design and lead AI-engineering curricula for working adults, grounded in andragogy (backward design, constructive alignment); certified in pedagogy and curriculum design.
 
 ## Current work & research
 
