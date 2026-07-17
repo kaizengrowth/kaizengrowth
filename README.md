@@ -16,7 +16,7 @@
 
 ## Current work & research
 
-- **[What We Will](https://github.com/What-We-Will)**: building a community platform that connects laid-off workers to legal, healthcare, and job-search resources, including an evaluated agentic RAG system for labor-law citations. Piloting retrieval and answer quality [layoff-qa-pipeline](https://github.com/kaizengrowth/layoff-qa-pipeline).
+- **[What We Will](https://github.com/What-We-Will)**: building a community platform that connects laid-off workers to legal, healthcare, and job-search resources. Piloting an evaluated agentic RAG system for labor-law citations. Repo: [layoff-qa-pipeline](https://github.com/kaizengrowth/layoff-qa-pipeline).
 
 - **AI safety research (in progress, first-author publication, 2026)**: measuring whether post-training quantization and GGUF compression widen the MultiJail high- vs low-resource jailbreak gap (Δ_HL) on open-weight models, under matched decoding and a dual-judge ASR protocol, alongside layer-localized safety interventions at the transformer-layer level. Repo: [quant-multilingual-safety](https://github.com/kaizengrowth/quant-multilingual-safety).
 
