@@ -13,7 +13,9 @@
 My work sits at the intersection of **AI engineering, public-interest technology, and AI safety research**:
 
 - **Production AI for government benefits**: document intelligence, multilingual conversational AI, fraud-signal detection, and high-availability payments infrastructure for state benefits programs (Michigan, Colorado) at AidKit, in partnership with OpenAI. 🏆 *Gold, "Best Use of Artificial Intelligence," 2025 Globee Awards for Impact; GitLab Foundation AI for Economic Mobility grantee.*
-- **AI evaluation & observability**: human-in-the-loop evaluation harnesses, trace-level monitoring, and continuous oversight for agentic RAG systems. I think of evaluation-driven development as TDD's cousin for nondeterministic systems.
+
+- **AI evaluation & observability**: human-in-the-loop evaluation harnesses, trace-level monitoring, llm redteaming, and continuous oversight for agentic RAG systems.
+
 - **Technical education at scale**: designed and launched AI-engineering curricula as Managing Lead Instructor at Stride (team of 9) and as an enterprise AI consultant for Pluralsight. I've also taught and mentored adult learners at Per Scholas, Future Code, and other workforce programs. My practice is grounded in andragogy and heutagogy (self-directed, experience-driven learning) for working adults, using backward design, constructive alignment, and competency-based instructional design. Certified in pedagogy and curriculum design, with a focus on scaffolding complex technical skills, formative assessment, and transfer of learning into building custom telemetry-enabled cloud labs and AI-enabled learning platforms in production.
 
 ## 🌱 Current work & research
