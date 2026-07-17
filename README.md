@@ -8,13 +8,13 @@
 
 ---
 
-## What I do
+## 🔭 What I do
 
 - **Production AI for government benefits**: document intelligence, multilingual conversational AI, fraud-signal detection, bias testing, and high-availability payments infrastructure for state benefits programs (Michigan, Colorado) at AidKit.
 - **Evaluation & safety**: human-in-the-loop eval harnesses, agentic RAG observability, LLM red teaming (OWASP).
-- **Technical education**: curriculum development and hands-on technical education, building labs with telemetry and AI-enabled production learning platforms, grounded in andragogy and heutology (backward design, constructive alignment, ATD, Kirkpatrick evaluation).
+- **Technical education**: curriculum development and hands-on technical education, building labs with telemetry and AI-enabled production learning platforms, grounded in andragogy and heutagogy (backward design, constructive alignment, ATD, Kirkpatrick evaluation).
 
-## Current work & research
+## 🌱 Current work & research
 
 - **[What We Will](https://github.com/What-We-Will)**: building a community platform that connects laid-off workers to legal, healthcare, and job-search resources. Piloting an evaluated agentic RAG system for labor-law citations. Repo: [layoff-qa-pipeline](https://github.com/kaizengrowth/layoff-qa-pipeline).
 
@@ -22,7 +22,7 @@
 
 - **AI & labor policy research (in progress, 2026)**: collaborating with TechEquity on a study of survey data from tech workers about how generative AI is changing their roles, skills, and job quality.
 
-## Learning lately
+## 📚 Learning lately
 
 - **Newline AI Research Track**
   - Implementing decoder-only Transformers in PyTorch: multi-head self-/cross-attention, RMSNorm/LayerNorm residuals, SwiGLU FFNs, RoPE, and KV-cache; pretraining GPT-2 124M with DDP and gradient accumulation
@@ -32,7 +32,7 @@
   - Layer-localized safety methods: freeze-all-but-k GRPO with layer contribution C(k); Safety Layers / SPPFT (freeze middle refusal layers under capability fine-tuning); ESI/SET/SPA sparse safety-critical updates (~1% of weights); Arditi-style refusal-direction ablation and addition in the residual stream
   - Systems context for eval harnesses: MoE routing, agent tool-use loops, Graph and multi-hop RAG; retrieval stacks (Hugging Face, DSPy, LangGraph); production reliability (SRE SLOs, model orchestration mixing cloud deployment and local LLM models for cost optimization)
 
-## Featured repositories
+## 📌 Featured repositories
 
 | Repo | Details |
 |---|---|
@@ -42,8 +42,10 @@
 | [**quant-multilingual-safety**](https://github.com/kaizengrowth/quant-multilingual-safety) | Quantization × multilingual jailbreak ASR (Δ_HL). |
 | [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ | Kafka monitoring for streaming / multi-stage ML. |
 
-## Background
+## 🎓 Background
 
-M.S. CS, **UPenn** · ML & AI certificate, **MIT** · MPA-BA Data Science for Public Policy, **NYU** · A.B. Math-Econ, **Columbia**
+M.S. Computer Science, **UPenn** · Post-grad certificate in Machine Learning & AI, **MIT** · MPA-BA Data Science for Public Policy, **NYU** (Reynolds Fellow) · A.B. Mathematics-Economics, **Columbia** (Centennial Scholar)
 
-Reach me at [kaitlin.zhang@owasp.org](mailto:kaitlin.zhang@owasp.org) or [kaizencode.art](https://kaizencode.art).
+---
+
+💬 Open to conversations about AI evaluation, gov-tech, responsible AI deployment, and technical education. Reach me at [kaitlin.zhang@owasp.org](mailto:kaitlin.zhang@owasp.org) or check out my personal blog at [kaizencode.art](https://kaizencode.art).
