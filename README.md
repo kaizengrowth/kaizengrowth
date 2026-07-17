@@ -10,9 +10,9 @@
 
 ## What I do
 
-- **Production AI for government benefits**: document intelligence, multilingual conversational AI, fraud-signal detection, and high-availability payments infrastructure for state benefits programs (Michigan, Colorado) at AidKit, in partnership with OpenAI.
+- **Production AI for government benefits**: document intelligence, multilingual conversational AI, fraud-signal detection, and high-availability payments infrastructure for state benefits programs (Michigan, Colorado) at AidKit.
 - **Evaluation & safety**: human-in-the-loop eval harnesses, agentic RAG observability, LLM red teaming (OWASP).
-- **Technical education**: design and lead AI-engineering curricula for working adults, grounded in andragogy (backward design, constructive alignment); certified in pedagogy and curriculum design.
+- **Technical education**: design and lead AI-engineering curricula for working adults, grounded in andragogy and heutology (backward design, constructive alignment, ATD, Kirkpatrick evaluation).
 
 ## Current work & research
 
