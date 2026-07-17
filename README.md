@@ -12,7 +12,7 @@
 
 - **Production AI for government benefits**: document intelligence, multilingual conversational AI, fraud-signal detection, bias testing, and high-availability payments infrastructure for state benefits programs (Michigan, Colorado) at AidKit.
 - **Evaluation & safety**: human-in-the-loop eval harnesses, agentic RAG observability, LLM red teaming (OWASP).
-- **Technical education**: curriculum development and hands-on technical education, building labs with telemetry and AI-enabled production learning platforms, grounded in andragogy and heutagogy (backward design, constructive alignment, ATD, Kirkpatrick evaluation).
+- **Technical education**: curriculum development and hands-on technical education, building labs with telemetry and custom AI-enabled production learning platforms, grounded in andragogy and heutagogy (backward design, constructive alignment, ATD, Kirkpatrick evaluation).
 
 ## 🌱 Current work & research
 
