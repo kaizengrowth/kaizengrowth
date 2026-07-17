@@ -21,7 +21,9 @@ My work sits at the intersection of **AI engineering, public-interest technology
 ## 🌱 Current work & research
 
 - **Founder/Senior Engineer, [What We Will](https://github.com/What-We-Will)**: a community platform to connect laid-off workers to legal and healthcare resources and job search supports. Building an evaluated agentic RAG system for labor-law citations and an AI upskilling program run by 38 volunteers.
+
 - **AI safety research (in progress, 2026)**: measuring whether post-training quantization and GGUF compression widen the MultiJail high- vs low-resource jailbreak gap (Δ_HL) on open-weight models, alongside layer-localized safety interventions at the transformer-layer level. Repo: [quant-multilingual-safety](https://github.com/kaizengrowth/quant-multilingual-safety).
+
 - **AI & labor policy research (in progress, 2026)**: collaborating on a study with TechEquity analyzing survey data from tech workers on AI-driven change in their roles.
 ## 📚 Learning lately
 
@@ -45,7 +47,6 @@ My work sits at the intersection of **AI engineering, public-interest technology
 | [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | AI document assistant for Tulsa city government: parsing/translating ordinances, budgets, and Council minutes with SMS/email alerts. Built with the Tulsa City Auditor's Office; user-tested with 80+ government staff and residents. *Python, RAG, civic tech.* |
 | [**MultiAgentEDUstack**](https://github.com/kaizengrowth/MultiAgentEDUstack) | Multi-agent curriculum pipeline that sources AI research/news, tiers credibility, and scaffolds digests, wiki, lessons, and labs at model speed. *Python, SQLite, Claude Code skills, Next.js desk.* |
 | [**quant-multilingual-safety**](https://github.com/kaizengrowth/quant-multilingual-safety) | Does PTQ/GGUF widen Multilingual jailbreak ASR gaps across resource tiers? Phase A measurement study (MultiJail × precision arms). *Python, quantization, safety eval.* |
-| [**machine_learning_projects**](https://github.com/kaizengrowth/machine_learning_projects) | ML coursework at M.I.T. with experiments in Python ML libraries. *Jupyter, scikit-learn, exploratory work.* |
 | [**oulipo_package**](https://github.com/kaizengrowth/oulipo_package) | Python NLP library for constraint-based poetry (built for SFPC), packaged and published to GitHub Container Registry. *Python packaging, NLP, creative computation.* |
 | [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ 58 | Apache Kafka monitoring tool for prototyping real-time streaming pipelines and testing parallelization of multi-stage ML models pre-production. *TypeScript, distributed systems, observability.* |
 
