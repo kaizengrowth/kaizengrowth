@@ -18,9 +18,9 @@
 
 - **[What We Will](https://github.com/What-We-Will)**: crisis-support platform for laid-off workers; piloting and evaluating legal-citation RAG ([layoff-qa-pipeline](https://github.com/kaizengrowth/layoff-qa-pipeline)).
 
-- **AI safety (2026)**: PTQ/GGUF × MultiJail resource-tier jailbreak gap (Δ_HL), with layer-localized safety interventions. [quant-multilingual-safety](https://github.com/kaizengrowth/quant-multilingual-safety).
+- **AI safety research (in progress, first author publication, 2026)**: PTQ/GGUF × MultiJail resource-tier jailbreak gap (Δ_HL), with layer-localized safety interventions. ([quant-multilingual-safety](https://github.com/kaizengrowth/quant-multilingual-safety)).
 
-- **AI & labor policy (2026)**: TechEquity study on AI-driven change in tech worker roles.
+- **AI & labor policy (in progress, 2026)**: collaborating on TechEquity study on AI-driven change in tech worker roles.
 
 ## Learning lately
 
