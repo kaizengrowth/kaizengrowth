@@ -31,7 +31,7 @@ My work sits at the intersection of **AI engineering, public-interest technology
   - Layer-localized safety methods: freeze-all-but-k GRPO with layer contribution C(k); Safety Layers / SPPFT (freeze middle refusal layers under capability FT); ESI/SET/SPA (SNIP-style safety-critical sparse updates ≈1% of weights); Arditi-style refusal-direction ablation/addition in the residual stream
   - Systems context for eval harnesses: MoE routing, agent tool-use loops, Graph/multi-hop RAG
 
-- **Advanced retrieval & agentic systems**: multi-vector indexing, late-interaction retrieval, multimodal RAG over text/images/tables, tool-augmented reasoning, and AI-centric evaluation; hands-on with Hugging Face, DSPy, LangChain, and Modal.
+- **Advanced retrieval & agentic systems**: multi-vector indexing, late-interaction retrieval, multimodal RAG over text/images/tables, tool-augmented reasoning, and AI-centric evaluation; production systems with Hugging Face, DSPy, LangChain, LangGraph, CrewAI, and Modal.
 
 - **Production reliability**: Google's SRE canon (SLOs, error budgets, toil) and modern Java (17/21 records, sealed types, virtual threads) with Spring Boot slice testing and Testcontainers.
 
