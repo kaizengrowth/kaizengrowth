@@ -36,11 +36,11 @@
 
 | Repo | Details |
 |---|---|
-| [**What We Will**](https://github.com/What-We-Will) | Crisis-support platform; agentic RAG; HITL evals. |
-| [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | Tulsa city-government document assistant (RAG). |
-| [**MultiAgentEDUstack**](https://github.com/kaizengrowth/MultiAgentEDUstack) | Multi-agent curriculum pipeline at model speed. |
-| [**quant-multilingual-safety**](https://github.com/kaizengrowth/quant-multilingual-safety) | Quantization × multilingual jailbreak ASR (Δ_HL). |
-| [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ | Kafka monitoring for streaming / multi-stage ML. |
+| [**What We Will**](https://github.com/What-We-Will) | Community platform for laid-off workers: resource matching, peer support, and an evaluated legal-citation chatbot. *TypeScript, agentic RAG, human-in-the-loop evals.* |
+| [**CivicSpark AI**](https://github.com/kaizengrowth/CivicSpark_AI) | AI document assistant for Tulsa city government: parsing and translating ordinances, budgets, and Council minutes with SMS/email alerts. Built with the Tulsa City Auditor's Office; user-tested with 80+ staff and residents. *Python, RAG, civic tech.* |
+| [**MultiAgentEDUstack**](https://github.com/kaizengrowth/MultiAgentEDUstack) | Eight-stage multi-agent curriculum pipeline that sources AI research and news, tiers credibility, and scaffolds digests, wiki pages, lessons, and labs as the field moves. *Python, SQLite, Claude Code skills, Next.js desk.* |
+| [**quant-multilingual-safety**](https://github.com/kaizengrowth/quant-multilingual-safety) | Measurement study on whether PTQ/GGUF widens MultiJail high- vs low-resource jailbreak ASR (Δ_HL), with layer-localized safety methods in scope. *Python, quantization, multilingual safety eval.* |
+| [**evaStudio**](https://github.com/oslabs-beta/evaStudio) ⭐ | Apache Kafka monitoring tool for prototyping real-time streaming pipelines and testing parallelization of multi-stage ML models before production. *TypeScript, distributed systems, observability.* |
 
 ## 🎓 Background
 
