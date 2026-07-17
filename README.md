@@ -16,20 +16,21 @@
 
 ## Current work & research
 
-- **[What We Will](https://github.com/What-We-Will)**: crisis-support platform for laid-off workers; piloting and evaluating legal-citation RAG ([layoff-qa-pipeline](https://github.com/kaizengrowth/layoff-qa-pipeline)).
+- **[What We Will](https://github.com/What-We-Will)**: building a community platform that connects laid-off workers to legal, healthcare, and job-search resources, including an evaluated agentic RAG system for labor-law citations. Piloting retrieval and answer quality through [layoff-qa-pipeline](https://github.com/kaizengrowth/layoff-qa-pipeline), with an AI upskilling program run by volunteer mentors.
 
-- **AI safety research (in progress, first author publication, 2026)**: PTQ/GGUF × MultiJail resource-tier jailbreak gap (Δ_HL), with layer-localized safety interventions. ([quant-multilingual-safety](https://github.com/kaizengrowth/quant-multilingual-safety)).
+- **AI safety research (in progress, first-author publication, 2026)**: measuring whether post-training quantization and GGUF compression widen the MultiJail high- vs low-resource jailbreak gap (Δ_HL) on open-weight models, under matched decoding and a dual-judge ASR protocol, alongside layer-localized safety interventions at the transformer-layer level. Repo: [quant-multilingual-safety](https://github.com/kaizengrowth/quant-multilingual-safety).
 
-- **AI & labor policy (in progress, 2026)**: collaborating on TechEquity study on AI-driven change in tech worker roles.
+- **AI & labor policy research (in progress, 2026)**: collaborating with TechEquity on a study of survey data from tech workers about how generative AI is changing their roles, skills, and job quality.
 
 ## Learning lately
 
 - **Newline AI Research Track**
-  - Transformers from scratch (attention, RMSNorm/SwiGLU/RoPE, KV-cache, GPT-2 124M, DDP)
-  - PEFT (LoRA/DoRA, BitFit, prompt tuning) and multimodal embeddings (CLIP, triplet/contrastive loss)
-  - Preference RL: RLHF/PPO, DPO, GRPO / Dr. GRPO / GiGPO, KL-to-ref, verifiable rewards
-  - Layer-localized safety: freeze-all-but-k GRPO + C(k), Safety Layers/SPPFT, ESI/SET/SPA, refusal-direction control
-  - Systems: MoE routing, tool-use agents, Graph/multi-hop RAG; retrieval stacks (HF, DSPy, LangGraph); SRE + modern Java
+  - Implementing decoder-only Transformers in PyTorch: multi-head self-/cross-attention, RMSNorm/LayerNorm residuals, SwiGLU FFNs, RoPE, and KV-cache; pretraining GPT-2 124M with DDP and gradient accumulation
+  - PEFT instruction tuning with Hugging Face PEFT: LoRA/DoRA, BitFit, and prompt tuning for domain and format control
+  - Embedding and multimodal adaptation: CLIP-style alignment, triplet and contrastive losses, and hard-negative mining
+  - Preference and RL post-training: SFT into RLHF/PPO critic-actor loops, DPO, and GRPO / Dr. GRPO / GiGPO with group-relative advantages, KL-to-reference regularization, and Math-Verify-style verifiable rewards
+  - Layer-localized safety methods: freeze-all-but-k GRPO with layer contribution C(k); Safety Layers / SPPFT (freeze middle refusal layers under capability fine-tuning); ESI/SET/SPA sparse safety-critical updates (~1% of weights); Arditi-style refusal-direction ablation and addition in the residual stream
+  - Systems context for eval harnesses: MoE routing, agent tool-use loops, Graph and multi-hop RAG; retrieval stacks (Hugging Face, DSPy, LangGraph); production reliability (SRE SLOs, modern Java)
 
 ## Featured repositories
 
